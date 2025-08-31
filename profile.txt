@@ -2,4 +2,11 @@ FirstName: Kim
 MiddleName:Pepito
 LastName: Madelo
 Age: 23
-Birthdate: March 27,2002
+Birthdate: March 27,2002Birth Place: Butuan City
+Gender: Male
+Contacts: 09563208564
+Religion: Catholic
+Fathers Name: Leopoldo C Madelo
+Occupation: Farmers
+Mothers Name: Deceased
+Occupation: N/A
